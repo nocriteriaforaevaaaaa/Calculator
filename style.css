@@ -13,3 +13,9 @@ html,body{
 .row{
     margin:10px 0;
 }
+.row input{
+    margin:0;
+    padding: 6px 38px;
+    border:2px solid black;
+    border-radius: 6px;
+}
