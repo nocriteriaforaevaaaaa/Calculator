@@ -4,6 +4,7 @@ html,body{
 }
 .button{
     padding:20px;
+    width:66px;
     margin:0 3px;
     border: 2px,solid black;
     border-radius: 9px;
@@ -11,11 +12,26 @@ html,body{
 }
 
 .row{
-    margin:10px 0;
+    margin:8px 0;
+    width:82vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
 }
 .row input{
+    width: 290px;
+    font-size: 19px;
+    text-align:center;
     margin:0;
-    padding: 6px 38px;
+    padding: 10px 0px;
     border:2px solid black;
     border-radius: 6px;
 }
+.button{
+    font-weight: bold;
+    color:peru
+}
+
+    

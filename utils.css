@@ -1,4 +1,6 @@
 .text-center{
+    font-family:'Times New Roman', Times, serif;
+    color:darkslategray;
     text-align: center;
 }
 
